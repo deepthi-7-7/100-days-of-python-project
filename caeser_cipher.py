@@ -49,4 +49,5 @@ while True:
     shift = int(input("Type the shift number:\n"))
     caeser(text,shift,direction)
   else:
+    print("Sayonara!")
     break
